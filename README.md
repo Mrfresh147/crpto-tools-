@@ -34,4 +34,4 @@ Functions:
 
 ⚙️User-friendly interface
 
-⚙️Full pool setup
+⚙️Full pool setup.
